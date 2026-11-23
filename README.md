@@ -220,6 +220,17 @@ VISUALIZATION_CONFIG = {
    FPS: 34.0
    ```
 
+
+
+https://github.com/user-attachments/assets/cf818350-4cf7-4e77-8375-65340a5dc383
+
+
+
+
+https://github.com/user-attachments/assets/7ca2e28e-d176-469b-9a52-477d88983785
+
+
+
 ## 📊 Выходные данные
 
 - **Формат:** MP4 (или оригинальный формат входного видео)
