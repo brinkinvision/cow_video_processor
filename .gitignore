@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output videos
+#*_processed.mp4
+#*_processed_*.mp4
+#visualized/
+
+# Models (могут быть большими)
+# models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
